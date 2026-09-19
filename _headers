@@ -1,0 +1,6 @@
+# Netlify / Cloudflare Pages: sqlite3.wasm must be application/wasm.
+/sqlite3.wasm
+  Content-Type: application/wasm
+
+/*.wasm
+  Content-Type: application/wasm
