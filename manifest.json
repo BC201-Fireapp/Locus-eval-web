@@ -1,11 +1,11 @@
 ﻿{
-    "name": "Fire Scene Docs",
-    "short_name": "LOCUS",
+    "name": "Locus Fire Scene Docs",
+    "short_name": "Locus Docs",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#E6E6E6",
     "theme_color": "#E87722",
-    "description": "Offline-first fire scene field worksheet for LOCUS",
+    "description": "Locus Fire Scene Docs — offline-first fire scene field worksheet",
     "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
