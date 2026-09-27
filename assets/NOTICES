@@ -5597,25 +5597,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 --------------------------------------------------------------------------------
-fire_scene_docs
-
-Copyright © 2026 Charles Strader
-
-All rights reserved.
-
-This software and its documentation are proprietary. No permission is granted
-to copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the software, or to permit others to do so, without prior written permission
-from the copyright holder.
-
-The software is provided "as is", without warranty of any kind, express or
-implied, including but not limited to the warranties of merchantability,
-fitness for a particular purpose, and noninfringement. In no event shall the
-copyright holder be liable for any claim, damages, or other liability arising
-from, out of, or in connection with the software or the use or other dealings
-in the software.
-
---------------------------------------------------------------------------------
 fixnum
 http_multi_server
 shelf

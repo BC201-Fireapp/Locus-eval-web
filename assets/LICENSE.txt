@@ -1,0 +1,49 @@
+LOCUS SOFTWARE LICENSE
+======================
+Copyright © Charles Strader / Locus. All rights reserved.
+
+
+What you may do (free)
+----------------------
+You may use Locus Fire Scene Docs — the app builds, worksheets, and
+related documentation as Charles Strader / Locus distributes them —
+free of charge for personal and professional fire-investigation and
+scene-documentation work.
+
+
+What you may not do
+-------------------
+Without prior written permission from Charles Strader, you may not:
+
+  • Sell Locus, charge others for copies, or redistribute it as a
+    paid product
+  • Rebrand Locus as your own product
+  • Offer Locus, or a modified or forked version of it, as a
+    competing paid product
+  • Redistribute Locus in a way that presents the software itself
+    as a commercial product for sale
+
+Using Locus while you charge clients for fire-investigation
+services is allowed. Selling or rebranding the software is not.
+
+
+Source code
+-----------
+This license covers distributed builds and documentation only.
+It does not grant rights to use, copy, modify, or redistribute
+Locus source code.
+
+
+No warranty
+-----------
+Locus is provided “as is,” without warranty of any kind. Use it at
+your own risk. Charles Strader / Locus are not responsible for
+decisions, reports, or outcomes that result from using the software.
+
+
+Permission requests
+-------------------
+For commercial licensing, redistribution, rebranding, or other
+uses not allowed above, contact:
+
+  Chuckstrader@Yahoo.com
