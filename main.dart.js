@@ -72456,7 +72456,7 @@ s=m.e
 q=B.bK8(n,s.a.a,m.f)
 n=m.f
 p=q.length
-r=new B.cl(A.f4,o,o,new B.e6(A.X0,B.bq(B.b([new B.a80(s,n,new B.aTZ(m),new B.aU_(m),new B.aU0(m),o),B.cL(p===0?A.bgd:B.bA4(new B.aU1(m,q),p,A.a1p,new B.aU2()),1)],t.n),A.ar,o,A.S,A.Z,0,A.a0),o),o)}return new B.fI(A.ds,o,A.vw,A.ah,B.b([new B.K8(0.15,o),r],t.n),o)},
+r=new B.cl(A.f4,o,o,new B.e6(A.X0,B.bq(B.b([new B.a80(s,n,new B.aTZ(m),new B.aU_(m),new B.aU0(m),o),B.cL(p===0?A.bgd:B.bA4(new B.aU1(m,q),p,A.a1p,new B.aU2()),1)],t.n),A.ar,o,A.S,A.Z,0,A.a0),o),o)}return new B.fI(A.ds,o,A.vw,A.ah,B.b([new B.K8(0.3,o),r],t.n),o)},
 $S:418}
 B.aTY.prototype={
 $2(a,b){var s=null
@@ -76280,7 +76280,7 @@ B.K8.prototype={
 J(a){return B.oB(B.jC(new B.asr(this)),!0,null)}}
 B.asr.prototype={
 $2(a,b){var s=B.bzs(b.d,b.b),r=this.a.c
-if(r==null)r=0.15
+if(r==null)r=0.3
 return B.fA(B.aAP(B.bji("assets/branding/locus_app_logo.png",!0,A.h4,A.fL,s,null,s),A.bdf,r),null,null)},
 $S:339}
 B.ZS.prototype={
