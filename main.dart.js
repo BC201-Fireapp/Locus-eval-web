@@ -72445,16 +72445,18 @@ B.aTQ.prototype={
 $1(a){return new B.zN(this.a.a.c,this.b,null)},
 $S:419}
 B.aU3.prototype={
-$2(a,b){var s,r,q,p=null,o=b.b,n=o==null,m=!n&&J.fg(o),l=b.c
-if(l!=null)s=B.fA(new B.aG(A.md,B.af("Could not open the local worksheet database.\n"+B.i(l),p,p,p,p,p,$.bup(),A.dm,p,p),p),p,p)
-else if(n)s=A.xT
-else if(J.iR(o))s=B.jC(new B.aTY())
-else{n=this.a
-l=n.e
-r=B.bK8(o,l.a.a,n.f)
-o=n.f
-q=r.length
-s=new B.cl(A.f4,p,p,new B.e6(A.X0,B.bq(B.b([new B.a80(l,o,new B.aTZ(n),new B.aU_(n),new B.aU0(n),p),B.cL(q===0?A.bgd:B.bA4(new B.aU1(n,r),q,A.a1p,new B.aU2()),1)],t.n),A.ar,p,A.S,A.Z,0,A.a0),p),p)}return new B.fI(A.ds,p,A.vw,A.ah,B.b([new B.K8(m?0.2:0.3,p),s],t.n),p)},
+$2(a,b){var s,r,q,p,o=null,n=b.b,m=n==null
+if(!m)J.fg(n)
+s=b.c
+if(s!=null)r=B.fA(new B.aG(A.md,B.af("Could not open the local worksheet database.\n"+B.i(s),o,o,o,o,o,$.bup(),A.dm,o,o),o),o,o)
+else if(m)r=A.xT
+else if(J.iR(n))r=B.jC(new B.aTY())
+else{m=this.a
+s=m.e
+q=B.bK8(n,s.a.a,m.f)
+n=m.f
+p=q.length
+r=new B.cl(A.f4,o,o,new B.e6(A.X0,B.bq(B.b([new B.a80(s,n,new B.aTZ(m),new B.aU_(m),new B.aU0(m),o),B.cL(p===0?A.bgd:B.bA4(new B.aU1(m,q),p,A.a1p,new B.aU2()),1)],t.n),A.ar,o,A.S,A.Z,0,A.a0),o),o)}return new B.fI(A.ds,o,A.vw,A.ah,B.b([new B.K8(0.15,o),r],t.n),o)},
 $S:418}
 B.aTY.prototype={
 $2(a,b){var s=null
@@ -76278,7 +76280,7 @@ B.K8.prototype={
 J(a){return B.oB(B.jC(new B.asr(this)),!0,null)}}
 B.asr.prototype={
 $2(a,b){var s=B.bzs(b.d,b.b),r=this.a.c
-if(r==null)r=0.3
+if(r==null)r=0.15
 return B.fA(B.aAP(B.bji("assets/branding/locus_app_logo.png",!0,A.h4,A.fL,s,null,s),A.bdf,r),null,null)},
 $S:339}
 B.ZS.prototype={
