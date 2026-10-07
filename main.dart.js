@@ -77030,7 +77030,7 @@ K(a){var s=null
 return new A.aI(B.a12,A.ah(this.c,s,s,s,s,s,A.Q(a).ok.w,s,s,s),s)}}
 A.b8Q.prototype={
 $1(a){var s=null,r=A.ah(this.a,s,s,s,s,s,s,s,s,s),q=A.ah(this.b,s,s,s,s,s,s,s,s,s)
-return A.baU(A.b([A.hu(B.vM,s,new A.b8O(a),s),A.Cn(B.b9l,s,new A.b8P(a),s)],t.n),q,s,r)},
+return A.baU(A.b([A.hu(B.vM,s,new A.b8O(a),s),A.Cn(B.b9k,s,new A.b8P(a),s)],t.n),q,s,r)},
 $S:317}
 A.b8O.prototype={
 $0(){A.cz(this.a,!1).eZ(!1)
@@ -77116,8 +77116,8 @@ A.aol.prototype={
 $2(a,b){var s=null,r=this.a,q=r.c,p=q.f,o=t.n,n=A.b([A.ah("Dropbox",s,s,s,s,s,A.bH(B.J,12,B.eH,1.35),s,s,s)],o)
 if(p)n.push(B.b3B)
 if(!q.e)n.push(A.Cn(B.b9L,B.bcT,p?s:r.d,s))
-else{q=A.bk4(B.b9m,B.bcf,p?s:r.e,s)
-B.n.S(n,A.b([q,A.Cn(B.b9k,B.bcH,p?s:r.f,s)],o))}return A.nO(n,B.pH,s,8,8)},
+else{q=A.bk4(B.b9l,B.bcf,p?s:r.e,s)
+B.n.S(n,A.b([q,A.Cn(B.b9n,B.bcH,p?s:r.f,s)],o))}return A.nO(n,B.pH,s,8,8)},
 $S:343}
 A.Kg.prototype={
 K(a){return A.oz(A.l6(new A.asM(this)),!0,null)}}
@@ -77502,7 +77502,7 @@ case 9:case 1:return A.p(q,r)
 case 2:return A.o(o.at(-1),r)}})
 return A.q($async$Cv,r)},
 K(a){var s,r=this,q=null,p=r.auj(),o=r.d,n=o?q:r.ga5Z(),m=t.n
-n=A.b([A.aqv(o?B.b3z:B.a2S,q,B.bco,B.b9n,n,q),B.vq,A.ah("Uses Date of loss / Time of loss and loss address (city, state, and ZIP when present) from File & Arrival. Public Open-Meteo historical archive (ERA5 reanalysis) \u2014 no API key. Requires network. Worksheet stays editable offline.",q,q,q,q,q,A.Q(a).ok.Q,q,q,q)],m)
+n=A.b([A.aqv(o?B.b3z:B.a2S,q,B.bco,B.b9m,n,q),B.vq,A.ah("Uses Date of loss / Time of loss and loss address (city, state, and ZIP when present) from File & Arrival. Public Open-Meteo historical archive (ERA5 reanalysis) \u2014 no API key. Requires network. Worksheet stays editable offline.",q,q,q,q,q,A.Q(a).ok.Q,q,q,q)],m)
 if(p){o=r.d
 s=A.hu(B.j_,B.bcO,o?q:r.ga5Z(),q)
 B.n.S(n,A.b([B.R2,A.eA(!1,B.an,!0,q,new A.aI(B.a19,A.d8(A.b([B.a1M,s,A.hJ(q,q,q,B.t4,q,q,o?q:new A.b5X(r),q,q,q,"Dismiss",q)],m),B.au,q,B.T,B.X,0,q),q),B.ac,B.eA,0,B.bdL,q,q,q,q,B.c_)],m))}return new A.aI(B.eE,A.bB(n,B.aF,q,B.T,B.X,0,B.a2),q)}}
@@ -157779,10 +157779,10 @@ B.b9f=new A.c2("Edit",null,null,null,null,null,null,null,null,null,null)
 B.b9h=new A.c2("Add person",null,null,null,null,null,null,null,null,null,null)
 B.b9i=new A.c2("Supporting document / addendum",null,null,null,null,null,null,null,null,null,null)
 B.b9j=new A.c2("Add ILR sample",null,null,null,null,null,null,null,null,null,null)
-B.b9k=new A.c2("Sync all dirty",null,null,null,null,null,null,null,null,null,null)
-B.b9l=new A.c2("Confirm",null,null,null,null,null,null,null,null,null,null)
-B.b9m=new A.c2("Sign out",null,null,null,null,null,null,null,null,null,null)
-B.b9n=new A.c2("Import weather at time of fire",null,null,null,null,null,null,null,null,null,null)
+B.b9k=new A.c2("Confirm",null,null,null,null,null,null,null,null,null,null)
+B.b9l=new A.c2("Sign out",null,null,null,null,null,null,null,null,null,null)
+B.b9m=new A.c2("Import weather at time of fire",null,null,null,null,null,null,null,null,null,null)
+B.b9n=new A.c2("Sync All",null,null,null,null,null,null,null,null,null,null)
 B.b9o=new A.c2("Fetch auditor property report",null,null,null,null,null,null,null,null,null,null)
 B.RF=new A.c2("About",null,null,null,null,null,null,null,null,null,null)
 B.b9q=new A.c2("Delete hypothesis",null,null,null,null,null,null,null,null,null,null)
